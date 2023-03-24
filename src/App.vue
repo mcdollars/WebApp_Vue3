@@ -3,7 +3,7 @@
     <v-navigation-drawer v-model="drawer" app>
       <div class="pa-3 text-center bg-teal text-white">
         <div class="text-h4 pa-4">Friends HQ</div>
-        <p>Together, we are stronger</p>
+        <p>Together, we are stronger!!</p>
       </div>
 
       <v-spacer></v-spacer>
